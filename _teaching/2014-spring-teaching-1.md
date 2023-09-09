@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Lecture Tutor: Probability Theory and Statistics"
+collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: "https://www.stochastik.uni-freiburg.de/de/lehre/ws-2019-2020/vorlesung-stochastik-ws-2019-2020"
+venue: "University of Freiburg, Department of Mathematics"
+date: 2019-10-01
+location: "Freiburg im Breisgau, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- tutored two groups of 20 students each to help them understand the contents of the two semester course "Probability Theory and Statistics"
+- corrected and graded assignments and explained solutions in weekly tutorials

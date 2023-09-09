@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "Mathematics in Computer Science"
+collection: teaching assistant
+type: "Undergraduate course"
+permalink: "https://www.stochastik.uni-freiburg.de/de/lehre/ss-2022/vorlesung-math-II-inf-SS2022"
+venue: "University of Freiburg, Department of Mathematics"
+date: 2019-10-01
+location: "Freiburg im Breisgau, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- helped a group of 20 first and second year students understand the concepts of the two-semester university module 'Mathematics in Computer Science'
+- corrected and graded weekly assignments and presented the solutions in a weekly tutorial
