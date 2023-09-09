@@ -44,11 +44,12 @@ Work experience
   * implementing experiments in julia and Flux machine learning library, training on HPC cluster
   * published a paper on incorporating structural knowledge into unsupervised deep learning
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>´
+
+# Publications
+# ======
+#   <ul>{% for post in site.publications %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}</ul>´
   
 Teaching
 ======
@@ -56,11 +57,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+# Talks
+# ======
+#   <ul>{% for post in site.talks %}
+#     {% include archive-single-talk-cv.html %}
+#   {% endfor %}</ul>
   
 Service and leadership
 ======
