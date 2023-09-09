@@ -23,3 +23,7 @@ Besides finishing this website I am actively looking for a PhD-role to continue 
 - my work with [Professor Kristin Shi-Kupfer](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/profile/staff-a-z/translate-to-englisch-prof-dr-kristin-shi-kupfer) on researching narratives among the Chinese diaspora on Twitter
 - my Master's thesis on improving Topic/Narrative Modeling exploiting semantic sub-embeddings
 - the global explainability method I developed with [David Hübner](https://david-huebner.com/)
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/florian-eichin maxwidth=500 limit=5 %}
+</div>
