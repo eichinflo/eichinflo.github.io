@@ -1,5 +1,5 @@
 ---
-title: "Mathematics in Computer Science"
+title: "Lecture Tutor: Mathematics in Computer Science"
 collection: teaching assistant
 type: "Undergraduate course"
 permalink: "ss18/mathematics-cs"
