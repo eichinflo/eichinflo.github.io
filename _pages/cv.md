@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.Sc. at Technical University of Munich (Oct 2020 - Apr 2024)
-* Exchange at National Taiwan University (Aug 2022 - Jun 2023)
-* B.Sc. at Albert-Ludwigs Universität Freiburg (Oct 2015 - May 2020)
-* Exchange at University of Hong Kong (Sep 2018 - May 2019)
+* M.Sc. Mathematics in Data Science at [Technical University of Munich](https://www.tum.de/en/) (Oct 2020 - Apr 2024)
+* Exchange at [National Taiwan University](https://www.ntu.edu.tw/english/) (Aug 2022 - Jun 2023)
+* B.Sc. in Mathematics and Computer Science at [Albert-Ludwigs Universität Freiburg](https://uni-freiburg.de/en/) (Oct 2015 - May 2020)
+* Exchange at [University of Hong Kong](https://www.hku.hk/) (Sep 2018 - May 2019)
 * Abitur at Theodor Heuss Gymnasium in Freiburg (2015)
 * Exchange at Shkola 80, Yaroslavl, Russia (2011 - 2012) 
 
@@ -22,8 +22,8 @@ Education
 Work experience
 ======
 * Research Assistant for Social Network Analysis on Twitter (Jun 2022 - Present)
-  * Trier University
-  * Supervisor: Professor Kristin Shi-Kupfer
+  * [Trier University - Chair of Chinese Studies](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/)
+  * Supervisor: [Professor Kristin Shi-Kupfer](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/profile/staff-a-z/translate-to-englisch-prof-dr-kristin-shi-kupfer)
   * Data collection, engineering and analysis on social media platforms
 
 * Research and Development Working Student (Apr 2022 - Aug 2022)
@@ -34,16 +34,11 @@ Work experience
   * [Averbis GmbH](https://averbis.com/)
   * using Explainable AI to improve performance of and trust in our NLP models
   * researching and developing new methods for global explainability
-  * added Tensorflow, Docker and Google's Language Interpretability Tool to my toolbox
-  * finally understood the value of Git and its value for agile software development
 
 * Research Assistant (Apr 2020 - Sep 2021)
   * [Universitätsklinikum Freiburg - Institute of Medical Biometry and Statistics](https://www.uniklinik-freiburg.de/imbi-en.html)
   * modelling two-photon imagery with a novelly proposed VAE model
-  * designing experiments in cooperation with my supervisor Prof. Dr. Binder
   * implementing experiments in julia and Flux machine learning library, training on HPC cluster
-  * published a paper on incorporating structural knowledge into unsupervised deep learning
-
 
 Publications
 ======
