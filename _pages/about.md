@@ -31,6 +31,6 @@ Well, apart from putting the finishing touches on this website, I'm actively in 
 - my Master's thesis on improving Topic/Narrative Modeling enhancing existing approaches using language
 - the global explainability method I co-developed with [David Hübner](https://david-huebner.com/)
 
-<img style="float: right;" src="images/underthewater.jpg">
-
 Stay tuned as I continue this exciting journey, and feel free to reach out. Let's learn, analyze and discuss together!
+
+![image](images/underthewater.jpg)
