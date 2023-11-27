@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+content: "A summary of me, my research interests and current projects."
 ---
 
 This webpage is a work in progress. Chances are, you ended up here because I couldn't resist telling you about it. At the moment, there might not be much to see, but allow me to introduce myself:
@@ -33,4 +34,4 @@ Well, apart from putting the finishing touches on this website, I'm actively in 
 
 Stay tuned as I continue this exciting journey, and feel free to reach out. Let's learn, analyze and discuss together!
 
-<img style="float: center;" src="images/underthewater.jpg">
+<img style="float: center;" src="images/underthewater.jpg" alt="Me diving a shipwreck in Croatia">
