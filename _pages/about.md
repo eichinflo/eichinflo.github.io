@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-content: "A summary of me, my research interests and current projects."
+description: "A summary of me, my research interests and current projects."
 ---
 
 This webpage is a work in progress. Chances are, you ended up here because I couldn't resist telling you about it. At the moment, there might not be much to see, but allow me to introduce myself:

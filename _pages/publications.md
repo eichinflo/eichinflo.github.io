@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+description: "A list of my publications."
 ---
 
 {% if author.googlescholar %}

@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+description: "A summary of my education, work experience and research interests."
 ---
 
 {% include base_path %}
