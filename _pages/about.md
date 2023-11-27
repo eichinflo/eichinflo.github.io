@@ -34,4 +34,4 @@ Well, apart from putting the finishing touches on this website, I'm actively in 
 
 Stay tuned as I continue this exciting journey, and feel free to reach out. Let's learn, analyze and discuss together!
 
-<img style="float: center;" src="images/underthewater.jpg" alt="Me diving a shipwreck in Croatia">
+<img style="display:block; margin-left: auto; margin-right: auto;" src="images/underthewater.jpg" alt="Me diving a shipwreck in Croatia">
