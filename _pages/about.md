@@ -29,7 +29,7 @@ What's on the horizon for me?
 Well, apart from putting the finishing touches on this website, I'm actively in pursuit of a PhD role to further my research career. Here is a glimpse of what we could build on:
 
 - my work with [Professor Kristin Shi-Kupfer](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/profile/staff-a-z/translate-to-englisch-prof-dr-kristin-shi-kupfer) on researching narratives within the Chinese diaspora on Twitter
-- my Master's thesis on improving Topic/Narrative Modeling enhancing existing approaches using language
+- my Master's thesis on improving Topic/Narrative Modeling enhancing existing approaches using language embeddings
 - the global explainability method I co-developed with [David Hübner](https://david-huebner.com/)
 
 Stay tuned as I continue this exciting journey, and feel free to reach out. Let's learn, analyze and discuss together!
