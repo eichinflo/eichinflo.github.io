@@ -33,4 +33,4 @@ Well, apart from putting the finishing touches on this website, I'm actively in 
 
 Stay tuned as I continue this exciting journey, and feel free to reach out. Let's learn, analyze and discuss together!
 
-![image](images/underthewater.jpg)
+<img style="float: middle;" src="images/underthewater.jpg">
