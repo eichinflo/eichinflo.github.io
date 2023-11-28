@@ -37,7 +37,6 @@ Stay tuned as I continue this exciting journey, and feel free to reach out. Let'
 <style>
 .frame {
   border: 1px solid #f2f3f3;
-  margin: auto;
   padding: 5px;
 }
 </style>
