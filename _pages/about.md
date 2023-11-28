@@ -36,16 +36,10 @@ Stay tuned as I continue this exciting journey, and feel free to reach out. Let'
 
 <style>
 .frame {
-  width: 300px;
-  height: 250px;
-  border: 1px solid #eee;
+  border: 1px solid #f2f3f3;
   margin: auto;
-  padding: 15px 10px;
+  padding: 5px;
 }
-      img {
-        width: 100%;
-        height: 100%;
-      }
 </style>
 <div class="frame">
 <img style="display:block; margin-left: auto; margin-right: auto;" src="images/underthewater.jpg" alt="Me diving a shipwreck in Croatia">
