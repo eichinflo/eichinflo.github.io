@@ -43,7 +43,7 @@ Stay tuned as I continue this exciting journey, and feel free to reach out. Let'
   width: 60%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10%;
+  margin-top: 7%;
   margin-bottom: 5%;
 }
 </style>
