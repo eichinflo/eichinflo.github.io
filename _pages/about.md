@@ -22,6 +22,7 @@ My research interests include:
 - Explainable AI
 - Data engineering, science and visualization
 
+<div style="margin-top: 5%; margin-bottom: 5%; text-align: center;"></div>
 
 What's on the horizon for me?
 =====
@@ -38,6 +39,12 @@ Stay tuned as I continue this exciting journey, and feel free to reach out. Let'
 .frame {
   border: 1px solid #f2f3f3;
   padding: 5px;
+  max-width: 381px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: 5%;
 }
 </style>
 <div class="frame">
