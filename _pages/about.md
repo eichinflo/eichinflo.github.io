@@ -38,7 +38,7 @@ Stay tuned as I continue this exciting journey, and feel free to reach out. Let'
 .frame {
   width: 300px;
   height: 250px;
-  border: 3px solid #ccc;
+  border: 1px solid #eee;
   margin: auto;
   padding: 15px 10px;
 }
