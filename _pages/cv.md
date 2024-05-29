@@ -12,17 +12,27 @@ description: "A summary of my education, work experience and research interests.
 
 Education
 ======
-* M.Sc. Mathematics in Data Science at [Technical University of Munich](https://www.tum.de/en/) (Oct 2020 - Apr 2024)
+* M.Sc. Mathematics in Data Science at [Technical University of Munich](https://www.tum.de/en/) (Oct 2020 - May 2024)
 * Exchange at [National Taiwan University](https://www.ntu.edu.tw/english/) (Aug 2022 - Jun 2023)
 * B.Sc. in Mathematics and Computer Science at [Albert-Ludwigs Universität Freiburg](https://uni-freiburg.de/en/) (Oct 2015 - May 2020)
 * Exchange at [University of Hong Kong](https://www.hku.hk/) (Sep 2018 - May 2019)
 * Abitur at Theodor Heuss Gymnasium in Freiburg (2015)
-* Exchange at Shkola 80, Yaroslavl, Russia (2011 - 2012) 
-
+* Exchange at Shkola 80, Yaroslavl, Russia (2011 - 2012)
 
 Work experience
 ======
-* Research Assistant for Social Network Analysis on Twitter (Jun 2022 - Present)
+
+* [Associate Researcher](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/sinologie/studentische-mitarbeiter) for Social Network Analysis on Twitter (Jan 2024 - Present)
+  * [Trier University - Chair of Chinese Studies](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/)
+  * Using state-of-the-art language processing to research current affairs commentators on social media
+  * Scaling qualitative approaches to millions of documents
+
+* Machine Learning Researcher (Jan 2024 - Apr 2024)
+  * [mixedbread.ai](https://www.mixedbread.ai/)
+  * training state-of-the-art language embeddings
+  * shrinking RAG space complexity by over 50x through efficient binarization
+
+* Research Assistant for Social Network Analysis on Twitter (Jun 2022 - Dec 2023)
   * [Trier University - Chair of Chinese Studies](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/)
   * Supervisor: [Professor Kristin Shi-Kupfer](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/profile/staff-a-z/translate-to-englisch-prof-dr-kristin-shi-kupfer)
   * Data collection, engineering and analysis on social media platforms
@@ -65,7 +75,6 @@ Service and leadership
 * [AFS Volunteer](https://afs.org/) (2015 - present)
 * [ICL Companion](https://icl.tw/index/index) (2022 - 2023)
 * Youth Leader at [KJG Wittnau](https://www.instagram.com/kjgwittnau/?hl=en) (2012 - 2014)
-
 
 Honors & Awards
 =====
