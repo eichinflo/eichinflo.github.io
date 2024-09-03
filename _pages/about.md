@@ -9,17 +9,16 @@ redirect_from:
 description: "A summary of me, my research interests and current projects."
 ---
 
-This webpage is a work in progress. Chances are, you ended up here because I couldn't resist telling you about it. At the moment, there might not be much to see, but allow me to introduce myself:
+I'm a PhD candidate and research associate at [LMU Munich](https://www.lmu.de/en/), where I work in [Michael Hedderich's](https://www.michael-hedderich.de) research group, that is affiliated with [Barabara Plank's](https://bplank.github.io) [MaiNLP](https://mainlp.github.io) lab and the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de).
 
-This is Florian Eichin, currently in the process of finishing my [Master's in Mathematics in Data Science](https://www.ma.tum.de/en/studies-information/study-programs-mathematics/master-mathematics-in-data-science.html) at [Technical University of Munich](https://www.cit.tum.de/en/cit/home/). Talk to me about your interests and I'll probably get excited, too. Try natural language processing, social computing or chinese tea culture to keep me talking for hours.
+Talk to me about your interests and I'll probably get excited, too. Try natural language processing, social computing or chinese tea culture to keep me talking for hours.
 
 If you're interested in collaborating or just connecting, send me a request on [LinkedIn](https://www.linkedin.com/in/florian-eichin/). For more informal things, you can find me on [Twitter](https://twitter.com/florian_eichin).
 
-My research interests include:
-- Natural language processing and understanding
-- Language embeddings, distributed and distributional representations
+My research interests are concerned with natural language processing and understanding:
+- Language embeddings/distributed and distributional representations
 - Analysing and improving social networks
-- Explainable AI
+- Explainable AI/Interpretability
 - Data engineering, science and visualization
 
 <div style="margin-top: 5%; margin-bottom: 5%; text-align: center;"></div>
@@ -27,26 +26,9 @@ My research interests include:
 What's on the horizon for me?
 =====
 
-Well, apart from putting the finishing touches on this website, I'm actively in pursuit of a PhD role to further my research career. Here is a glimpse of what we could build on:
-
-- my work with [Professor Kristin Shi-Kupfer](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/profile/staff-a-z/translate-to-englisch-prof-dr-kristin-shi-kupfer) on researching narratives within the Chinese diaspora on Twitter
+I've just started my PhD and am in the process of identifying interesting research questions. If you have any ideas for projects and collaborations, feel free to reach out to me. Here are some of the things we could build on:
+- my work with [Professor Kristin Shi-Kupfer](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/profile/staff-a-z/translate-to-englisch-prof-dr-kristin-shi-kupfer) on researching narratives of Chinese current affair's commentators
 - my Master's thesis on improving Topic/Narrative Modeling enhancing existing approaches using language embeddings
 - the global explainability method I co-developed with [David Hübner](https://david-huebner.com/)
 
 Stay tuned as I continue this exciting journey, and feel free to reach out. Let's learn, analyze and discuss together!
-
-<style>
-.frame {
-  border: 1px solid #f2f3f3;
-  padding: 5px;
-  max-width: 381px;
-  width: 60%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 7%;
-  margin-bottom: 5%;
-}
-</style>
-<div class="frame">
-<img style="display:block; margin-left: auto; margin-right: auto;" src="images/underthewater.jpg" alt="Me diving a shipwreck in Croatia">
-</div>
