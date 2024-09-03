@@ -12,7 +12,8 @@ description: "A summary of my education, work experience and research interests.
 
 Education
 ======
-* M.Sc. Mathematics in Data Science at [Technical University of Munich](https://www.tum.de/en/) (Oct 2020 - May 2024)
+* Ph.D. Candidate in Computational Linguistics at [Ludwigs-Maximilians-Universität Munich (LMU)](https://www.lmu.de/en/) (Sep 2024 - present)
+* M.Sc. Mathematics in Data Science at [Technical University of Munich (TUM)](https://www.tum.de/en/) (Oct 2020 - May 2024)
 * Exchange at [National Taiwan University](https://www.ntu.edu.tw/english/) (Aug 2022 - Jun 2023)
 * B.Sc. in Mathematics and Computer Science at [Albert-Ludwigs Universität Freiburg](https://uni-freiburg.de/en/) (Oct 2015 - May 2020)
 * Exchange at [University of Hong Kong](https://www.hku.hk/) (Sep 2018 - May 2019)
@@ -22,8 +23,18 @@ Education
 Work experience
 ======
 
-* [Associate Researcher](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/sinologie/studentische-mitarbeiter) for Social Network Analysis on Twitter (Jan 2024 - Present)
-  * [Trier University - Chair of Chinese Studies](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/)
+* Research Associate (Sep 2024 - present)
+  * [MaiNLP](https://mainlp.github.io) at the [Center for Information and Language Processing (CIS), LMU Munich](https://www.cis.lmu.de)
+  * Working on making language models and their representations of language more explainable
+  * Supervised by [Michael Hedderich](https://www.michael-hedderich.de)
+
+* Research Associate (Jul 2024 - Sep 2024)
+  * [Institute of Chinese Studies at Freiburg University](https://www.sinologie.uni-freiburg.de/startseitenachr-en?set_language=en)
+  * OCR, data engineering, and data analysis
+
+* [Associate Researcher](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/sinologie/studentische-mitarbeiter) (Jan 2024 - Present)
+  * [Chair of Chinese Studies at Trier University](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/)
+  * Social Network Analysis on Twitter
   * Using state-of-the-art language processing to research current affairs commentators on social media
   * Scaling qualitative approaches to millions of documents
 
@@ -32,9 +43,10 @@ Work experience
   * training state-of-the-art language embeddings
   * shrinking RAG space complexity by over 50x through efficient binarization
 
-* Research Assistant for Social Network Analysis on Twitter (Jun 2022 - Dec 2023)
+* Research Assistant (Jun 2022 - Dec 2023)
   * [Trier University - Chair of Chinese Studies](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/)
-  * Supervisor: [Professor Kristin Shi-Kupfer](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/profile/staff-a-z/translate-to-englisch-prof-dr-kristin-shi-kupfer)
+  * Social Network Analysis on Twitter
+  * Supervised by [Professor Kristin Shi-Kupfer](https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/chinese-studies/profile/staff-a-z/translate-to-englisch-prof-dr-kristin-shi-kupfer)
   * Data collection, engineering and analysis on social media platforms
 
 * Research and Development Working Student (Apr 2022 - Aug 2022)

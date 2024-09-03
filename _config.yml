@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Florian Eichin"
   avatar           : "profile.png"
-  bio              : "Aspiring researcher with an interest in NLP, Social Networks and Politics"
-  location         : "Taipei, Taiwan"
-  employer         : "TU Munich"
+  bio              : "Researcher with an interest in NLP, Interpretability, Social Networks and Politics"
+  location         : "Munich, Germany"
+  employer         : "LMU Munich"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=iCicxpEAAAAJ"
   email            : "flo.eichin@gmail.com"
