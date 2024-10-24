@@ -4,7 +4,7 @@ collection: teaching assistant
 type: "Undergraduate course"
 permalink: "ss18/mathematics-cs"
 venue: "University of Freiburg, Department of Mathematics"
-date: 2019-10-01
+date: 2018-04-01
 location: "Freiburg im Breisgau, Germany"
 ---
 
