@@ -1,7 +1,7 @@
 ---
 title: "Incorporating structural knowledge into unsupervised deep learning for two-photon imaging data"
 collection: publications
-permalink: /publication/2021-10-05
+permalink: /publication/2021-10-05-incorporating-structural-knowledge
 excerpt: 'Using a neural network architecture that reflects domain knowledge provides an interpretable model of live cell imaging data.'
 date: 2021-10-05
 venue: 'bioRxiv'

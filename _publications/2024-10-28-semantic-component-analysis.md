@@ -1,7 +1,7 @@
 ---
 title: "Semantic Component Analysis: Discovering Patterns in Short Texts Beyond Topics"
 collection: publications
-permalink: /publication/2024-10.28
+permalink: /publication/2024-10-28-semantic-components
 excerpt: 'Finding detailed patterns in neural representations.'
 date: 2021-10-05
 venue: 'arXiv'
