@@ -9,7 +9,7 @@ redirect_from:
 description: "A summary of me, my research interests and current projects."
 ---
 
-I'm a PhD candidate and research associate at [LMU Munich](https://www.lmu.de/en/), where I work in [Michael Hedderich's](https://www.michael-hedderich.de) research group, that is affiliated with [Barbara Plank's](https://bplank.github.io) [MaiNLP](https://mainlp.github.io) lab and the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de). I am also affiliated with the [Munich Center for Machine Learning (MCML)](https://www.mcml.ai).
+I'm a PhD candidate and research associate at [LMU Munich](https://www.lmu.de/en/), where I work in [Michael Hedderich's](https://www.michael-hedderich.de) [research group](https://michael-hedderich.de/group/), that is affiliated with [Barbara Plank's](https://bplank.github.io) [MaiNLP](https://mainlp.github.io) lab and the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de). I am also affiliated with the [Munich Center for Machine Learning (MCML)](https://www.mcml.ai).
 
 If you're interested in collaborating or just connecting, send me a request on [LinkedIn](https://www.linkedin.com/in/florian-eichin/). For more informal things, you can find me on [Bluesky](https://bsky.app/profile/florianeichin.bsky.social) and [Twitter](https://twitter.com/florian_eichin).
 
