@@ -13,11 +13,13 @@ I'm a PhD candidate and research associate at [LMU Munich](https://www.lmu.de/en
 
 If you're interested in collaborating or just connecting, send me a request on [LinkedIn](https://www.linkedin.com/in/florian-eichin/). For more informal things, you can find me on [Bluesky](https://bsky.app/profile/florianeichin.bsky.social) and [Twitter](https://twitter.com/florian_eichin).
 
-My research interests are concerned with natural language processing and understanding:
-- Language embeddings/distributed and distributional representations
-- Analysing and improving social networks
-- Explainable AI/Interpretability
-- Data engineering, science and visualization
+Currently, my research interests are concerned with natural language processing and beyond:
+- Language representations/embeddings
+- Explainable AI and interpretability
+- Attribution methods
+- Learning dynamics
+
+Besides, I like working with [data from social networks](https://florian-eichin.com/talks/2024-03-14-aas) and [topic modeling](https://florian-eichin.com/publication/2024-10-28-semantic-components). 
 
 <div style="margin-top: 5%; margin-bottom: 5%; text-align: center;"></div>
 
