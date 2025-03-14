@@ -14,7 +14,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 1em 0em 1em;
     font-family: $sans-serif;
 
     @include breakpoint($x-large) {
@@ -45,5 +45,5 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
 }
