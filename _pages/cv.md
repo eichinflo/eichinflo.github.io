@@ -11,17 +11,15 @@ description: "A summary of my education, work experience and research interests.
 {% include base_path %}
 
 Education
-======
+---
 * Ph.D. Candidate in Computational Linguistics at [Ludwigs-Maximilians-Universität Munich (LMU)](https://www.lmu.de/en/) (Sep 2024 - present)
 * M.Sc. Mathematics in Data Science at [Technical University of Munich (TUM)](https://www.tum.de/en/) (Oct 2020 - May 2024)
 * Exchange at [National Taiwan University](https://www.ntu.edu.tw/english/) (Aug 2022 - Jun 2023)
 * B.Sc. in Mathematics and Computer Science at [Albert-Ludwigs Universität Freiburg](https://uni-freiburg.de/en/) (Oct 2015 - May 2020)
 * Exchange at [University of Hong Kong](https://www.hku.hk/) (Sep 2018 - May 2019)
-* Abitur at Theodor Heuss Gymnasium in Freiburg (2015)
-* Exchange at Shkola 80, Yaroslavl, Russia (2011 - 2012)
 
 Work experience
-======
+---
 
 * Research Associate (Sep 2024 - present)
   * [MaiNLP](https://mainlp.github.io) at the [Center for Information and Language Processing (CIS), LMU Munich](https://www.cis.lmu.de)
@@ -64,32 +62,31 @@ Work experience
   * implementing experiments in julia and Flux machine learning library, training on HPC cluster
 
 Publications
-======
+---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks
-======
+---
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
-
-* [AFS Volunteer](https://afs.org/) (2015 - present)
+---
 * [ICL Companion](https://icl.tw/index/index) (2022 - 2023)
+* [AFS Volunteer](https://afs.org/) (2015 - 2020)
 * Youth Leader at [KJG Wittnau](https://www.instagram.com/kjgwittnau/?hl=en) (2012 - 2014)
 
 Honors & Awards
-=====
+---
 * China Scholarship by [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/en/) 
 * Scholarship by [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/en/)
 * Scholarship by [Stiftung der deutschen Wirtschaft](https://www.sdw.org/index.html)

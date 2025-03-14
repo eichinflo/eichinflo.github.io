@@ -47,7 +47,7 @@
   }
 
   .current {
-    font-weight: bold;
+    font-weight: normal;
   }
 }
 
@@ -79,7 +79,7 @@
       padding: 0.5em 1em;
       font-family: $sans-serif;
       font-size: 14px;
-      font-weight: bold;
+      font-weight: normal;
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
@@ -128,7 +128,7 @@
     width: 50%;
     font-family: $sans-serif;
     font-size: $type-size-5;
-    font-weight: bold;
+    font-weight: normal;
     text-align: center;
     text-decoration: none;
     color: mix(#fff, $gray, 50%);
@@ -203,13 +203,14 @@
 
   .visible-links {
     display: table;
+    float: right;
 
     li {
       display: table-cell;
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
+        font-weight: normal;
 
         a {
           margin-left: 0;
@@ -314,7 +315,7 @@
    ========================================================================== */
 
 .nav__list {
-  font-size: 1.25rem;
+  font-size: $type-size-5;
 
   ul {
     margin-bottom: 1em;
@@ -348,18 +349,18 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
+  font-family: $sans-serif;
   font-size: $type-size-5;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .nav__sub-title {
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
-  font-weight: bold;
+  font-family: $sans-serif;
+  font-size: $type-size-5;
+  font-weight: normal;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
 }
@@ -370,7 +371,7 @@
    ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
+  font-family: $sans-serif;
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -381,7 +382,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
@@ -400,7 +401,7 @@
     padding: 0.5rem 1rem;
     color: $gray;
     font-size: $type-size-7;
-    font-weight: bold;
+    font-weight: normal;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
 

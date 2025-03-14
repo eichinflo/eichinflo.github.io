@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Florian Eichin"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Florian Eichin"
 description              : &description "MSc candidate and aspiring researcher at TU Munich"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Florian Eichin"
   avatar           : "profile.png"
-  bio              : "Researcher with an interest in NLP, Interpretability, Social Networks and Politics"
+  bio              : "PhD candidate with an interest in NLP, interpretability, social networks and politics."
   location         : "Munich, Germany"
   employer         : "LMU Munich"
   pubmed           :
@@ -159,7 +159,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:

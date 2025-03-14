@@ -13,6 +13,8 @@ I'm a PhD candidate and research associate at [LMU Munich](https://www.lmu.de/en
 
 If you're interested in collaborating or just connecting, send me a request on [LinkedIn](https://www.linkedin.com/in/florian-eichin/). For more informal things, you can find me on [Bluesky](https://bsky.app/profile/florianeichin.bsky.social) and [Twitter](https://twitter.com/florian_eichin).
 
+Research interests
+----
 Currently, my research interests are concerned with natural language processing and beyond:
 - Language representations/embeddings
 - Explainable AI and interpretability
@@ -21,9 +23,17 @@ Currently, my research interests are concerned with natural language processing 
 
 Besides, I like working with [data from social networks](https://florian-eichin.com/talks/2024-03-14-aas) and [topic modeling](https://florian-eichin.com/publication/2024-10-28-semantic-components). 
 
-<div style="margin-top: 5%; margin-bottom: 5%; text-align: center;"></div>
 
-What's on the horizon for me?
-=====
+News
+----
 
+**Mar 14, 2025** [New preprint](https://arxiv.org/abs/2503.10515) on probing LLMs for discourse generalization.
+
+**Nov 12, 2024** I held a [talk about NLP for China studies](https://www.linkedin.com/posts/florian-eichin_natural-language-processing-meets-china-activity-7261378124196581376-sC1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkH7TgBf_c3Iz62U7apThYZyV5WWA17Xls) at Trier University.
+
+**Oct 28, 2024** Our preprint on [Semantic Component Analysis](https://arxiv.org/abs/2410.21054) is out!
+
+
+Next steps
+---
 I've just started my PhD and am in the process of identifying interesting research questions. If you have any ideas for projects and collaborations, feel free to reach out to me.

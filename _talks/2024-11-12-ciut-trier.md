@@ -9,4 +9,4 @@ location: "Trier, Germany"
 description: "A talk on our research on topic models at the intersection of language processing and social science"
 ---
 
-https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/sinologie/news/einzelansicht?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=26944&cHash=121c16ad62be7ce0270fdfbfef20f904
+I talked about how you can use language processing for text analysis, particularly in China studies. Thanks for all the interesting questions and discussions! [Link to post on LinkedIn.](https://www.linkedin.com/posts/florian-eichin_how-detailed-do-you-want-your-text-analysis-activity-7267478946626121730-ohWq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkH7TgBf_c3Iz62U7apThYZyV5WWA17Xls)
