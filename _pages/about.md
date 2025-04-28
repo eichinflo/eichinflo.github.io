@@ -11,21 +11,23 @@ description: "A summary of me, my research interests and current projects."
 
 I'm a PhD candidate and research associate at [LMU Munich](https://www.lmu.de/en/), where I work in [Michael Hedderich's](https://www.michael-hedderich.de) [research group](https://michael-hedderich.de/group/), that is affiliated with [Barbara Plank's](https://bplank.github.io) [MaiNLP](https://mainlp.github.io) lab and the [Center for Information and Language Processing (CIS)](https://www.cis.lmu.de). I am also affiliated with the [Munich Center for Machine Learning (MCML)](https://www.mcml.ai).
 
-If you're interested in collaborating or just connecting, send me a request on [LinkedIn](https://www.linkedin.com/in/florian-eichin/). For more informal things, you can find me on [Bluesky](https://bsky.app/profile/florianeichin.bsky.social).
+If you're interested in collaborating or just connecting, drop me an email or send me a request on [LinkedIn](https://www.linkedin.com/in/florian-eichin/). For more informal things, you can find me on [Bluesky](https://bsky.app/profile/florianeichin.bsky.social).
 
 Research interests
 ----
-Currently, my research interests are concerned with natural language processing and beyond:
-- Language representations/embeddings
-- Explainable AI and interpretability
-- Attribution methods
-- Learning dynamics
+Currently, and without any order of priority, my research interests include
+- Language representations and measures of similarity between them
+- Explainable AI and interpretability 
+- Model and data attribution methods
+- How learning dynamics interact with these areas
 
 Besides, I like working with [data from social networks](https://florian-eichin.com/talks/2024-03-14-aas) and [topic modeling](https://florian-eichin.com/publication/2024-10-28-semantic-components). 
 
 
 News
 ----
+
+**Apr 22, 2025** Want to learn how your prompt affects your LLM outputs? [Spotlight's got you covered](https://arxiv.org/abs/2504.15815)!
 
 **Mar 14, 2025** [New preprint](https://arxiv.org/abs/2503.10515) on probing LLMs for discourse generalization.
 
