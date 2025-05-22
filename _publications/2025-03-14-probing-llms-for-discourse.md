@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-03-14-probing-llms
 excerpt: 'Probing large language models for multilingual discourse relation information unifying framework-specific label sets.'
 date: 2025-03-14
-venue: 'arXiv'
+venue: 'ACL Main'
 paperurl: 'https://arxiv.org/abs/2503.10515'
 ---
 

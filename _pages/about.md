@@ -18,7 +18,7 @@ Research interests
 Currently, and without any order of priority, my research interests include
 - Language representations and measures of similarity between them
 - Explainable AI and interpretability 
-- Model and data attribution methods
+- Model component and data attribution methods
 - How learning dynamics interact with these areas
 
 Besides, I like working with [data from social networks](https://florian-eichin.com/talks/2024-03-14-aas) and [topic modeling](https://florian-eichin.com/publication/2024-10-28-semantic-components). 
@@ -36,8 +36,3 @@ News
 **Nov 12, 2024** I held a [talk about NLP for China studies](https://www.linkedin.com/posts/florian-eichin_natural-language-processing-meets-china-activity-7261378124196581376-sC1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkH7TgBf_c3Iz62U7apThYZyV5WWA17Xls) at Trier University.
 
 **Oct 28, 2024** Our preprint on [Semantic Component Analysis](https://arxiv.org/abs/2410.21054) is out!
-
-
-Next steps
----
-I've just started my PhD and am in the process of identifying interesting research questions. If you have any ideas for projects and collaborations, feel free to reach out to me.

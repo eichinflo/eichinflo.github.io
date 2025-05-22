@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-04-22-whats-the-difference
 excerpt: 'Evaluating the influence of prompts on the LLM outputs through token patterns.'
 date: 2025-04-22
-venue: 'arXiv'
+venue: 'ACL Main'
 paperurl: 'https://arxiv.org/abs/2504.15815'
 ---
 

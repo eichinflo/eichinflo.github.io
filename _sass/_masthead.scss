@@ -31,6 +31,14 @@
   }
 }
 
+.masthead__logo {
+  padding: 0.4em 2.5em 0.4em 0.4em;
+  position: relative;
+  width: $type-size-5*8; /* Match the font size of the container */
+  height: auto; /* Maintain aspect ratio */
+  float: right;
+}
+
 .masthead__menu {
 
   ul {
