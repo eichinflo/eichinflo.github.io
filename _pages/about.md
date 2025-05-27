@@ -27,6 +27,8 @@ Besides, I like working with [data from social networks](https://florian-eichin.
 News
 ----
 
+**May 27, 2025** New preprint introducing [ExPLAIND](https://arxiv.org/abs/2505.20076), an interpretability framework that unifies model component, data, and training trajectory attribution.
+
 **May 20, 2025** We will present our paper on [probing LLMs for discourse generalization](https://arxiv.org/abs/2503.10515) and [Spotlight](https://arxiv.org/abs/2504.15815) at the ACL 2025 Main Conference in Vienna🇦🇹
 
 **Apr 22, 2025** Want to learn how your prompt affects your LLM outputs? [Spotlight's got you covered](https://arxiv.org/abs/2504.15815)!
