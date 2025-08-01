@@ -10,6 +10,12 @@ description: "A summary of my education, work experience and research interests.
 
 {% include base_path %}
 
+Publications
+---
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Education
 ---
 * Ph.D. Candidate in Computational Linguistics at [Ludwigs-Maximilians-Universität Munich (LMU)](https://www.lmu.de/en/) (Sep 2024 - present)
@@ -61,26 +67,20 @@ Work experience
   * modelling two-photon imagery with a novelly proposed VAE model
   * implementing experiments in julia and Flux machine learning library, training on HPC cluster
 
-Publications
----
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Talks
----
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ---
+### Reviewing:
+* Junior reviewer NeurIPS 2025
+* Junior reviewer Actionable Interpretability Workshop, ICML 2025
+* Junior reviewer for ACL ARR; Dec. 2024 and Feb. 2025 cycles
+
+### Other:
 * [ICL Companion](https://icl.tw/index/index) (2022 - 2023)
 * [AFS Volunteer](https://afs.org/) (2015 - 2020)
 * Youth Leader at [KJG Wittnau](https://www.instagram.com/kjgwittnau/?hl=en) (2012 - 2014)
