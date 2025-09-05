@@ -27,6 +27,8 @@ Besides, I like working with [data from social networks](https://florian-eichin.
 News
 ----
 
+**Sep 01, 2025** [SCA](https://arxiv.org/abs/2410.21054) was accepted into the Findings of [EMNLP 2025](https://2025.emnlp.org)!
+
 **May 27, 2025** New preprint introducing [ExPLAIND](https://arxiv.org/abs/2505.20076), an interpretability framework that unifies model component, data, and training trajectory attribution.
 
 **May 20, 2025** We will present our paper on [probing LLMs for discourse generalization](https://arxiv.org/abs/2503.10515) and [Spotlight](https://arxiv.org/abs/2504.15815) at the ACL 2025 Main Conference in Vienna🇦🇹
