@@ -27,6 +27,8 @@ Besides, I like working with [data from social networks](https://florian-eichin.
 News
 ----
 
+**Sep 10, 2025** I'm currently staying at [EIT-NLP, Ningbo](https://eit-nlp.github.io) working on something multilingual again🌍
+
 **Sep 01, 2025** [SCA](https://arxiv.org/abs/2410.21054) was accepted into the Findings of [EMNLP 2025](https://2025.emnlp.org)!
 
 **May 27, 2025** New preprint introducing [ExPLAIND](https://arxiv.org/abs/2505.20076), an interpretability framework that unifies model component, data, and training trajectory attribution.
