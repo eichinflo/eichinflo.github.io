@@ -76,7 +76,8 @@ Teaching
 Service and leadership
 ---
 ### Reviewing:
-* Junior reviewer NeurIPS 2025
+* Emergency Reviewer October ARR 2025
+* Junior reviewer NeurIPS 2025, ICLR 2026
 * Junior reviewer Actionable Interpretability Workshop, ICML 2025
 * Junior reviewer for ACL ARR; Dec. 2024 and Feb. 2025 cycles
 
@@ -85,8 +86,9 @@ Service and leadership
 * [AFS Volunteer](https://afs.org/) (2015 - 2020)
 * Youth Leader at [KJG Wittnau](https://www.instagram.com/kjgwittnau/?hl=en) (2012 - 2014)
 
-Honors & Awards
+Grants and Scholarships
 ---
+* Grant 'Project-Related Researcher Exchange' by [BayChina](https://www.baychina.de/en/for-reseachers/funding-for-projects-neu)
 * China Scholarship by [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/en/) 
 * Scholarship by [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de/en/)
 * Scholarship by [Stiftung der deutschen Wirtschaft](https://www.sdw.org/index.html)
