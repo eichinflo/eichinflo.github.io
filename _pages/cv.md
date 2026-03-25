@@ -76,9 +76,9 @@ Teaching
 Service and leadership
 ---
 ### Reviewing:
-* Emergency Reviewer October ARR 2025
-* Junior reviewer NeurIPS 2025, ICLR 2026
-* Junior reviewer Actionable Interpretability Workshop, ICML 2025
+* Reviewer ICML 2026
+* Emergency Reviewer Oct. ARR 2025
+* Junior reviewer NeurIPS 2025, ICLR 2026, Actionable Interpretability Workshop (ICML 2025)
 * Junior reviewer for ACL ARR; Dec. 2024 and Feb. 2025 cycles
 
 ### Other:
