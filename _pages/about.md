@@ -27,6 +27,12 @@ Besides, I like working with [data from social networks](https://florian-eichin.
 News
 ----
 
+**Apr 13, 2026** Travelling to London as part of the [MCML delegation visit to the UK](https://mcml.ai/news/2026-03-30-mcml-delegation-visit-to-the-uk-/)💂
+
+**Jan 6, 2026** New year starts with a [new preprint on linear script representations](https://arxiv.org/abs/2601.02906) in speech models!
+
+**Nov, 2025** I talked about Interpretability&[ExPLAIND](https://florian-eichin.com/publication/2025-05-26-grokking-explaind) following invitations to [Westlake University](https://florian-eichin.com/talks/2025-11-15-westlake), [Lingnan University](https://florian-eichin.com/talks/2025-12-04-lingnan), and [National Taiwan University](https://florian-eichin.com/talks/2025-11-25-ncts-ntu).
+
 **Sep 10, 2025** I'm currently staying at [EIT-NLP, Ningbo](https://eit-nlp.github.io) working on something multilingual again🌍
 
 **Sep 01, 2025** [SCA](https://arxiv.org/abs/2410.21054) was accepted into the Findings of [EMNLP 2025](https://2025.emnlp.org)!
