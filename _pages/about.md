@@ -27,6 +27,8 @@ Besides, I like working with [data from social networks](https://florian-eichin.
 News
 ----
 
+**Apr 20, 2026** [Felicia](https://koernerfelicia.github.io) and I will [talk about our work on multilingual pretraining](https://florian-eichin.com/talks/2026-04-20-edinburgh) at ILCC, University of Edinburgh
+
 **Apr 13, 2026** Travelling to London as part of the [MCML delegation visit to the UK](https://mcml.ai/news/2026-03-30-mcml-delegation-visit-to-the-uk-/)💂
 
 **Jan 6, 2026** New year starts with a [new preprint on linear script representations](https://arxiv.org/abs/2601.02906) in speech models!
