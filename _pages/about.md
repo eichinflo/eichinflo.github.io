@@ -16,10 +16,11 @@ If you're interested in collaborating or just connecting, drop me an email or se
 Research interests
 ----
 Currently, and without any order of priority, my research interests include
-- Language representations and measures of similarity between them
-- Explainable AI and interpretability 
-- Model component and data attribution methods
-- How learning dynamics interact with these areas
+- explaining generalization in language models, e.g. in multilingual settings
+- methods for interpretability 
+- language representations and measures of similarity between them
+- model component and data attribution methods
+- how learning dynamics interact with these areas
 
 Besides, I like working with [data from social networks](https://florian-eichin.com/talks/2024-03-14-aas) and [topic modeling](https://florian-eichin.com/publication/2024-10-28-semantic-components). 
 
