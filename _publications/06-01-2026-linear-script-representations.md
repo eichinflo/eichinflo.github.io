@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/06-01-2026-linear-script-representations
 excerpt: 'We show that script is largely represented as a single linear direction in activation space of Whisper models and that steering activations towards that direction enables transcriptions and even generalizes across different languages.'
 date: 2026-01-06
-venue: 'arXiv:2601.02906'
+venue: 'ACL 2026 Findings'
 paperurl: 'https://arxiv.org/pdf/2601.02906'
 authors: 'Ryan Soh-Eun Shim, Kwanghee Choi, Kalvin Chang, Ming-Hao Hsu, <b>Florian Eichin</b>, Zhizheng Wu, Alane Suhr, Michael A. Hedderich, David Harwath, David R. Mortensen, Barbara Plank'
 ---
