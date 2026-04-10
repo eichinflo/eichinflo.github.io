@@ -17,10 +17,9 @@ Research interests
 ----
 Currently, and without any order of priority, my research interests include
 - explaining generalization in language models, e.g. in multilingual settings
-- methods for interpretability 
+- methods for interpretability, especially to attribute model behavior to the model components and training data
+- further, how studying training dynamics can help with that
 - language representations and measures of similarity between them
-- model component and data attribution methods
-- how learning dynamics interact with these areas
 
 Besides, I like working with [data from social networks](https://florian-eichin.com/talks/2024-03-14-aas) and [topic modeling](https://florian-eichin.com/publication/2024-10-28-semantic-components). 
 
