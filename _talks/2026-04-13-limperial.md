@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2026-04-12-imperial
 venue: "Imperial College London"
-date: 2025/11/25
+date: 2026/04/13
 location: "London, United Kingdom"
 description: "A talk on unified interpretability."
 ---
