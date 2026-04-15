@@ -29,26 +29,28 @@ News
 
 **Apr 20, 2026** [Felicia](https://koernerfelicia.github.io) and I will [talk about our work on multilingual pretraining](https://florian-eichin.com/talks/2026-04-20-edinburgh) at ILCC, University of Edinburgh
 
-**Apr 13, 2026** Travelling to London as part of the [MCML delegation visit to the UK](https://mcml.ai/news/2026-03-30-mcml-delegation-visit-to-the-uk-/)💂
+**Apr 13, 2026** [I presented our ideas on unified interpretability](https://florian-eichin.com//talks/2026-04-12-imperial) at Imperial College London
+
+**Apr 12, 2026** Travelling to London as part of the [MCML delegation visit to the UK](https://mcml.ai/news/2026-03-30-mcml-delegation-visit-to-the-uk-/)💂
 
 **Apr 10, 2026** Our paper on linear script representations will be presented at ACL 2026 in San Diego!
 
 **Jan 6, 2026** New year starts with a [new preprint on linear script representations](https://arxiv.org/abs/2601.02906) in speech models
 
-**Nov, 2025** I talked about Interpretability&[ExPLAIND](https://florian-eichin.com/publication/2025-05-26-grokking-explaind) following invitations to [Westlake University](https://florian-eichin.com/talks/2025-11-15-westlake), [Lingnan University](https://florian-eichin.com/talks/2025-12-04-lingnan), and [National Taiwan University](https://florian-eichin.com/talks/2025-11-25-ncts-ntu).
+**Nov, 2025** I talked about Interpretability&[ExPLAIND](https://florian-eichin.com/publication/2025-05-26-grokking-explaind) following invitations to [Westlake University](https://florian-eichin.com/talks/2025-11-15-westlake), [Lingnan University](https://florian-eichin.com/talks/2025-12-04-lingnan), and [National Taiwan University](https://florian-eichin.com/talks/2025-11-25-ncts-ntu)
 
 **Sep 10, 2025** I'm currently staying at [EIT-NLP, Ningbo](https://eit-nlp.github.io) working on something multilingual again🌍
 
 **Sep 01, 2025** [SCA](https://arxiv.org/abs/2410.21054) was accepted into the Findings of [EMNLP 2025](https://2025.emnlp.org)!
 
-**May 27, 2025** New preprint introducing [ExPLAIND](https://arxiv.org/abs/2505.20076), an interpretability framework that unifies model component, data, and training trajectory attribution.
+**May 27, 2025** New preprint introducing [ExPLAIND](https://arxiv.org/abs/2505.20076), an interpretability framework that unifies model component, data, and training trajectory attribution
 
 **May 20, 2025** We will present our paper on [probing LLMs for discourse generalization](https://arxiv.org/abs/2503.10515) and [Spotlight](https://arxiv.org/abs/2504.15815) at the ACL 2025 Main Conference in Vienna🇦🇹
 
 **Apr 22, 2025** Want to learn how your prompt affects your LLM outputs? [Spotlight's got you covered](https://arxiv.org/abs/2504.15815)!
 
-**Mar 14, 2025** [New preprint](https://arxiv.org/abs/2503.10515) on probing LLMs for discourse generalization.
+**Mar 14, 2025** [New preprint](https://arxiv.org/abs/2503.10515) on probing LLMs for discourse generalization
 
-**Nov 12, 2024** I held a [talk about NLP for China studies](https://www.linkedin.com/posts/florian-eichin_natural-language-processing-meets-china-activity-7261378124196581376-sC1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkH7TgBf_c3Iz62U7apThYZyV5WWA17Xls) at Trier University.
+**Nov 12, 2024** I held a [talk about NLP for China studies](https://www.linkedin.com/posts/florian-eichin_natural-language-processing-meets-china-activity-7261378124196581376-sC1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACkH7TgBf_c3Iz62U7apThYZyV5WWA17Xls) at Trier University
 
 **Oct 28, 2024** Our preprint on [Semantic Component Analysis](https://arxiv.org/abs/2410.21054) is out!
