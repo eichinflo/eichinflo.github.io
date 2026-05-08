@@ -1,7 +1,7 @@
 ---
 title: "Linear Script Representations in Speech Foundation Models Enable Zero-Shot Transliteration"
 collection: publications
-permalink: /publication/06-01-2026-linear-script-representations
+permalink: /publication/2026-01-06-linear-script-representations
 excerpt: 'We show that script is largely represented as a single linear direction in activation space of Whisper models and that steering activations towards that direction enables transcriptions and even generalizes across different languages.'
 date: 2026-01-06
 venue: 'ACL 2026 Findings'

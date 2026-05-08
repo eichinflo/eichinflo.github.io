@@ -27,6 +27,10 @@ Besides, I like working with [data from social networks](https://florian-eichin.
 News
 ----
 
+**May 1, 2026** [ExPLAIND](https://florian-eichin.com/publication/2025-05-26-grokking-explaind) has been accepted to ICML 2026!
+
+**Apr 25, 2026** Here's [a new preprint](https://arxiv.org/abs/2604.17633) trying to understand multilingual pretraining dynamics
+
 **Apr 20, 2026** [Felicia](https://koernerfelicia.github.io) and I will [talk about our work on multilingual pretraining](https://florian-eichin.com/talks/2026-04-20-edinburgh) at ILCC, University of Edinburgh
 
 **Apr 13, 2026** [I presented our ideas on unified interpretability](https://florian-eichin.com//talks/2026-04-12-imperial) at Imperial College London
