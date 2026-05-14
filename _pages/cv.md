@@ -76,7 +76,9 @@ Teaching
 Service and leadership
 ---
 ### Reviewing:
-* Reviewer ICML 2026
+* Reviewer for NeurIPS 2026
+* Reviewer Mechanistic Interpretability Workshop ICML 2026
+* Reviewer ICML 2026 with [Gold Reviewer](https://x.com/icmlconf/status/2054696826851234151) recognition
 * Emergency reviewer Oct. ARR 2025
 * Junior reviewer NeurIPS 2025, ICLR 2026, Actionable Interpretability Workshop (ICML 2025)
 * Junior reviewer for ACL ARR; Dec. 2024 and Feb. 2025 cycles

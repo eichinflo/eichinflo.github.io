@@ -26,6 +26,7 @@ Besides, I like working with [data from social networks](https://florian-eichin.
 
 News
 ----
+**May 14, 2026** I was recognized as one of the [Gold Reviewers of ICML 2026](https://x.com/icmlconf/status/2054696826851234151)🏅
 
 **May 1, 2026** [ExPLAIND](https://florian-eichin.com/publication/2025-05-26-grokking-explaind) has been accepted to ICML 2026!
 
