@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-04-25-copy-first-translat-later
 excerpt: 'We study the early pretraining dynamics of multilingual models.'
 date: 2026-04-25
-venue: 'arXiv'
+venue: 'EMNLP 2026 Main'
 paperurl: 'https://arxiv.org/abs/2604.17633'
 authors: 'Felicia Körner*, Maria Matveev*, <b>Florian Eichin*</b>, Gitta Kutyniok, Barbara Plank, Michael A. Hedderich'
 ---

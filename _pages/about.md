@@ -16,9 +16,9 @@ If you're interested in collaborating or just connecting, drop me an email or se
 Research interests
 ----
 Currently, and without any order of priority, my research interests include
-- explaining generalization in language models, e.g. in multilingual settings
-- methods for interpretability, especially to attribute model behavior to the model components and training data
-- further, how studying training dynamics can help with that
+- explaining generalization in language models, e.g. in [multilingual settings](https://florian-eichin.com/publication/2026-04-25-copy-first-translate-later) or in contrast to [memorization](https://florian-eichin.com/publication/2026-09-29-dont-forget-memorization-dynamics)
+- [new methods for interpretability](https://florian-eichin.com/publication/2025-05-26-explaind), especially to attribute model behavior to the model components and training data
+- how studying training dynamics can help with the above
 - language representations and measures of similarity between them
 
 Besides, I like working with [data from social networks](https://florian-eichin.com/talks/2024-03-14-aas) and [topic modeling](https://florian-eichin.com/publication/2024-10-28-semantic-components). 
@@ -26,11 +26,15 @@ Besides, I like working with [data from social networks](https://florian-eichin.
 
 News
 ----
-**Jun 17, 2026** [ExPLAIND](https://florian-eichin.com/publication/2025-05-26-grokking-explaind) will also be presented at the [Mechanistic Interpretability Workshop](https://mechinterpworkshop.com)
+**Sep 29, 2026** How do LLMs memorize training sequences? Find the answers in [our new preprint](https://florian-eichin.com/publication/2026-09-29-dont-forget-memorization-dynamics)
+
+**Sep 20, 2026** [Copy First, Translate Later](https://arxiv.org/abs/2604.17633) will be presented at EMNLP 2026🇭🇺
+
+**Jun 17, 2026** [ExPLAIND](https://florian-eichin.com/publication/2025-05-26-explaind) will also be presented at the [Mechanistic Interpretability Workshop](https://mechinterpworkshop.com)
 
 **May 14, 2026** I was recognized as one of the [Gold Reviewers of ICML 2026](https://x.com/icmlconf/status/2054696826851234151)🏅
 
-**May 1, 2026** [ExPLAIND](https://florian-eichin.com/publication/2025-05-26-grokking-explaind) has been accepted to ICML 2026!
+**May 1, 2026** [ExPLAIND](https://florian-eichin.com/publication/2025-05-26-explaind) has been accepted to ICML 2026!
 
 **Apr 25, 2026** Here's [a new preprint](https://arxiv.org/abs/2604.17633) trying to understand multilingual pretraining dynamics
 
@@ -44,7 +48,7 @@ News
 
 **Jan 6, 2026** New year starts with a [new preprint on linear script representations](https://arxiv.org/abs/2601.02906) in speech models
 
-**Nov, 2025** I talked about Interpretability&[ExPLAIND](https://florian-eichin.com/publication/2025-05-26-grokking-explaind) following invitations to [Westlake University](https://florian-eichin.com/talks/2025-11-15-westlake), [Lingnan University](https://florian-eichin.com/talks/2025-12-04-lingnan), and [National Taiwan University](https://florian-eichin.com/talks/2025-11-25-ncts-ntu)
+**Nov, 2025** I talked about Interpretability&[ExPLAIND](https://florian-eichin.com/publication/2025-05-26-explaind) following invitations to [Westlake University](https://florian-eichin.com/talks/2025-11-15-westlake), [Lingnan University](https://florian-eichin.com/talks/2025-12-04-lingnan), and [National Taiwan University](https://florian-eichin.com/talks/2025-11-25-ncts-ntu)
 
 **Sep 10, 2025** I'm currently staying at [EIT-NLP, Ningbo](https://eit-nlp.github.io) working on something multilingual again🌍
 
