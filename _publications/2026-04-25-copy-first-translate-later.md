@@ -1,7 +1,7 @@
 ---
 title: "Copy First, Translate Later: Interpreting Translation Dynamics in Multilingual Pretraining"
 collection: publications
-permalink: /publication/2026-04-25-copy-first-translat-later
+permalink: /publication/2026-04-25-copy-first-translate-later
 excerpt: 'We study the early pretraining dynamics of multilingual models.'
 date: 2026-04-25
 venue: 'EMNLP 2026 Main'
