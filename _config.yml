@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Florian Eichin"
-description              : &description "Associate Researcher and PhD candidate at LMU Munich with an interest in NLP and interpretability."
+description              : &description "Associate Researcher and PhD candidate at LMU Munich working on training dynamics of LLMs."
 url                      : https://florian-eichin.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eichinflo/eichinflo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Florian Eichin"
   avatar           : "profile.png"
-  bio              : "PhD candidate with an interest in NLP and interpretability."
+  bio              : "PhD candidate working on training dynamics of LLMs."
   location         : "Munich, Germany"
   employer         : "LMU Munich"
   pubmed           :

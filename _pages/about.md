@@ -13,15 +13,19 @@ I'm a PhD candidate and research associate at [LMU Munich](https://www.lmu.de/en
 
 If you're interested in collaborating or just connecting, drop me an email or send me a request on [LinkedIn](https://www.linkedin.com/in/florian-eichin/). For more informal things, you can find me on [Bluesky](https://bsky.app/profile/florianeichin.bsky.social).
 
-Research interests
+Research
 ----
-Currently, and without any order of priority, my research interests include
-- explaining generalization in language models, e.g. in [multilingual settings](https://florian-eichin.com/publication/2026-04-25-copy-first-translate-later) or in contrast to [memorization](https://florian-eichin.com/publication/2026-09-29-dont-forget-memorization-dynamics)
-- [new methods for interpretability](https://florian-eichin.com/publication/2025-05-26-explaind), especially to attribute model behavior to the model components and training data
-- how studying training dynamics can help with the above
-- language representations and measures of similarity between them
 
-Besides, I like working with [data from social networks](https://florian-eichin.com/talks/2024-03-14-aas) and [topic modeling](https://florian-eichin.com/publication/2024-10-28-semantic-components). 
+Neural language models have revolutionized natural language processing and are introduced to society in similarly transformative ways. Yet surprisingly little is understood about how these models learn and work. 
+
+
+My research approaches this gap by connecting interpretability and training dynamics. Studying a model at a single checkpoint gives us only a single slice of a dynamic learning process. This way, we ignore a lot of observable information that could explain model behavior, i.e., the past and future training of the model and how they are shaped by the training data, architecture and the optimizer. Accessing and interpreting this information requires methods that can decompose these influences faithfully and efficiently.
+
+Therefore, I am pursuing three goals which build on each other:
+
+1. <b>Develop unified, mathematically grounded methodology</b> to [attribute model behavior to training data, model components, and training](https://florian-eichin.com/publication/2025-05-26-explaind)
+2. Use that methodology to <b>understand learning and generalization</b> (or failures thereof) in LLMs, e.g., in [multilinguality](https://florian-eichin.com/publication/2026-04-25-copy-first-translate-later), continual learning, or [memorization](https://florian-eichin.com/publication/2026-09-29-dont-forget-memorization-dynamics)
+3. Use this understanding to <b>build safer, more efficient models</b>, e.g., by intervening on memorization or designing inductive biases against forgetting
 
 
 News
